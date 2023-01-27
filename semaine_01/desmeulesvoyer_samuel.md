@@ -1,5 +1,5 @@
 Desmeules-Voyer, Samuel
 
-![Photo de moi](photodemoisam.jpg)
+![Photo de moi](photodemoisam.JPG)
 
 Intérets:
