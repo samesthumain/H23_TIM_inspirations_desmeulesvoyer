@@ -1,20 +1,21 @@
-Expo - BIAN 2023
+# BIAN 6 - Mutation
 
-Lieu - Arsenal
+### Lieu: Arsenal
 
-Type d'expo - Temporaire, interieur
+Une exposition temporaire, interieure.
 
-Date - 3 février 2023
+### Date: 3 février 2023
 
-Titre - Coeus, Prometheus, Ichor et Tetrad
+# Titre Coeus, Prometheus, Ichor et Tetrad
 
-Artiste - Ian Springs
+## Artiste: Ian Springs
 
-Année de réalisation - 2021 (Tetrad) 2022 (Coeus, Prometheus et Ichor)
+### - 2021 (Tetrad)
+### - 2022 (Coeus, Prometheus et Ichor)
 
-Description - 
+### type d'oeuvre - Contemplative
 
-type d'oeuvre - Contemplative
+Description -
 
 Mise en espace - 
 
