@@ -16,7 +16,7 @@ Une exposition temporaire, interieure.
 
 ### type d'oeuvre - Contemplative
 
-Description
+(Description) :  4 modèles 3d 
 
 Mise en espace: 
 
