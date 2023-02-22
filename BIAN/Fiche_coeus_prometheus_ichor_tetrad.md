@@ -6,17 +6,17 @@ Une exposition temporaire, interieure.
 
 ### Date: 3 février 2023
 
-# Coeus ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
-# Prometheus ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
-# Ichor ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
-# Tetrad ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
+# Coeus, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+# Prometheus, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
+# Ichor, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
+# et Tetrad ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
 
 ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
 ### **Ian Springs**
 
 
-### Crée en 
+### Crées en 
 #### - 2021 (Tetrad)
 #### - 2022 (Coeus, Prometheus et Ichor)
 
@@ -32,6 +32,6 @@ Composantes et techniques - (modèles 3d, animation)
 
 Expérience vécue - 
 
-Ce que j'ai aimé - 
+Ce que j'ai aimé: Les visages était très détaillés et les transitions entre les différents états du rendu.
 
 Aspects que je veux faire - 
