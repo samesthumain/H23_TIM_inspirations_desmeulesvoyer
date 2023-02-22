@@ -26,7 +26,7 @@ Ces 4 oeuvres sont des vidéos dans lesquelles on vois des modèles 3d en mouvem
 
 **Mise en espace**: 
 
-**Composantes et techniques**: (modèles 3d, animation)
+**Composantes et techniques**: L'oeuvre elle-même est (modèles 3d, animation)
 
 **Éléments nécéssaires à l'exposition**: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
