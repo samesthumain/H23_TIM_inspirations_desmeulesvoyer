@@ -24,7 +24,7 @@ Une exposition temporaire, interieure.
 Des oeuvres contemplatives,
 ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques hyperréalistes en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
 
-**Mise en espace**: 
+**Mise en espace** ![mise en espace](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/scene.png)
 
 **Composantes et techniques**: L'oeuvre elle-même, c'est quatres vidéos de modèles 3d texturés dans les logiciels Maya et Mudbox, composés dans le logiciel DaVinci Resolve.
 
