@@ -22,16 +22,16 @@ Une exposition temporaire, interieure.
 
 ### type d'oeuvre - Contemplative
 
-(Description) :  Ces 4 oeuvres sont des vidéos dans les quelles on vois des modèles 3d en mouvement 
+(Description) :  Ces 4 oeuvres sont des vidéos dans lesquelles on vois des modèles 3d en mouvement, pour Coeus, Prometheus et Ichor
 
-Mise en espace: 
+**Mise en espace**: 
 
-Composantes et techniques (modèles 3d, animation)
+**Composantes et techniques**: (modèles 3d, animation)
 
-Éléments nécéssaires à l'exposition: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
+**Éléments nécéssaires à l'exposition**: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
-Expérience vécue - 
+**Expérience vécue**:  
 
-Ce que j'ai aimé: Les visages était très détaillés et les transitions entre les différents états des rendu.
+**Ce que j'ai aimé**: Les visages était très détaillés et les transitions entre les différents états des rendu.
 
-Aspects que je veux faire: J'ai envie d'incorporer des modèles 3d dans mes projets parce que animateur 3d est une job que je veux avoir plus tard.
+**Aspects que je veux faire**: J'ai envie d'incorporer des modèles 3d dans mes projets parce que animateur 3d est une job que je veux avoir plus tard.
