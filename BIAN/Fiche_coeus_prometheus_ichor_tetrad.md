@@ -26,12 +26,12 @@ Une exposition temporaire, interieure.
 
 Mise en espace: 
 
-Composantes et techniques - (modèles 3d, animation)
+Composantes et techniques (modèles 3d, animation)
 
-Éléments nécéssaires à l'exposition - (fils et écrans)
+Éléments nécéssaires à l'exposition: Un ordinteur(pour faire jouer les vidéos, quatre écrans (un par vidéo)
 
 Expérience vécue - 
 
-Ce que j'ai aimé: Les visages était très détaillés et les transitions entre les différents états du rendu.
+Ce que j'ai aimé: Les visages était très détaillés et les transitions entre les différents états des rendu.
 
-Aspects que je veux faire - 
+Aspects que je veux faire: J'ai envie d'incorporer des modèles 3d dans mes projets parce que animateur 3d est une job que je veux avoir plus tard.
