@@ -1,6 +1,6 @@
-# BIAN 6 - Mutation ![affiche](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+# BIAN 6 - Mutation ![affiche](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/bian_6.jpg)
 
-### Lieu: Arsenal
+### Lieu: Arsenal ![photo devans l'arsenal](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/arsenal.png)
 
 Une exposition temporaire, interieure.
 
