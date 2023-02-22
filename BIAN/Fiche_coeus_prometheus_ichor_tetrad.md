@@ -26,7 +26,7 @@ ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques
 
 **Mise en espace**: ![mise en espace](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/scene.png)
 
-**Composantes et techniques**: L'oeuvre elle-même, c'est quatres vidéos de modèles 3d texturés dans les logiciels Maya et Mudbox, composés dans le logiciel DaVinci Resolve.
+**Composantes et techniques**: L'oeuvre elle-même, c'est quatres vidéos de modèles 3d texturés dans les logiciels Maya et Mudbox, composés dans le logiciel DaVinci Resolve. Pour déplacer cette exposition, il faudrait déplacer les écrans, les fils et les fichiers des quatres vidéos.
 
 **Éléments nécéssaires à l'exposition**: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
