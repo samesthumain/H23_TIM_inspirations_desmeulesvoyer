@@ -6,7 +6,7 @@ Une exposition temporaire, interieure.
 
 ### Date de la visite: 3 février 2023
 
-# *Coeus*, [![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)]()
+# *Coeus*, [![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)](https://ianspriggs.com/wp-content/uploads/2022/10/Coeus_forWebsite.mp4)
 # *Prometheus*, ![photo de prometheus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
 # *Ichor*, ![photo de ichor](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
 # et *Tetrad* ![photo de tetrad](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
