@@ -6,7 +6,10 @@ Une exposition temporaire, interieure.
 
 ### Date: 3 février 2023
 
-# Coeus, Prometheus, Ichor et Tetrad
+# Coeus 
+# Prometheus 
+# Ichor 
+# Tetrad 
 
 ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
