@@ -4,7 +4,7 @@
 
 Une exposition temporaire, interieure.
 
-### Date: 3 février 2023
+### Date de la visite: 3 février 2023
 
 # *Coeus*, ![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
 # *Prometheus*, ![photo de prometheus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
@@ -20,6 +20,7 @@ Une exposition temporaire, interieure.
 #### - 2021 (Tetrad)
 #### - 2022 (Coeus, Prometheus et Ichor)
 
+![Oeuvre](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/oeuvre.jpg)
 Des oeuvres contemplatives,
 ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques hyperréalistes en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
 
