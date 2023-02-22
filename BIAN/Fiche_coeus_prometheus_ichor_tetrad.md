@@ -6,10 +6,10 @@ Une exposition temporaire, interieure.
 
 ### Date: 3 février 2023
 
-# Coeus, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
-# Prometheus, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
-# Ichor, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
-# et Tetrad ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
+# *Coeus*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+# *Prometheus*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
+# *Ichor*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
+# et *Tetrad* ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
 
 ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
@@ -28,7 +28,7 @@ Mise en espace:
 
 Composantes et techniques (modèles 3d, animation)
 
-Éléments nécéssaires à l'exposition: Un ordinteur(pour faire jouer les vidéos, quatre écrans (un par vidéo)
+Éléments nécéssaires à l'exposition: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
 Expérience vécue - 
 
