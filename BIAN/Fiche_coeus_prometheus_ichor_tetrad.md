@@ -16,13 +16,12 @@ Une exposition temporaire, interieure.
 ### **Ian Springs**
 
 
-### Crées en 
+### Crées en
 #### - 2021 (Tetrad)
 #### - 2022 (Coeus, Prometheus et Ichor)
 
-### type d'oeuvre: Contemplative
-
-Ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques hyperréalistes en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
+Des oeuvres contemplatives,
+ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques hyperréalistes en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
 
 **Mise en espace**: 
 
@@ -36,4 +35,4 @@ Ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques
 
 **Aspects que je veux faire**: J'ai envie d'incorporer des modèles 3d dans mes projets parce que animateur 3d est une job que je veux avoir plus tard.
 
-**Aspects à éviter**: Les écrans utilisés pour présenter Coeus, Prometheus et Ichor n'ont pas tous la même grosseur malgré
+**Aspects à éviter**: Les écrans utilisés pour présenter Coeus, Prometheus et Ichor n'ont pas tous la même grosseur malgré que d'après la plaque, les trois oeuvres ont la même grosseur.
