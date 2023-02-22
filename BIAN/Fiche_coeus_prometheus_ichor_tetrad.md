@@ -31,7 +31,6 @@ ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques
 **Éléments nécéssaires à l'exposition**: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
 **Expérience vécue**:  Pour expériencer ces oeuvres il ne faut que la regarder.
-![Watch the video](https://ianspriggs.com/wp-content/uploads/2022/10/Coeus_forWebsite.mp4)
 
 **Ce que j'ai aimé**: Les visages était très détaillés et j'aime les transitions entre les différents états des rendu.
 
