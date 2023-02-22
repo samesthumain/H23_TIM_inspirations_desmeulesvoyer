@@ -1,15 +1,17 @@
 # BIAN 6 - Mutation
 
+![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+
 ### Lieu: Arsenal
 
 Une exposition temporaire, interieure.
 
 ### Date: 3 février 2023
 
-# *Coeus*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
-# *Prometheus*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
-# *Ichor*, ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
-# et *Tetrad* ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
+# *Coeus*, ![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+# *Prometheus*, ![photo de prometheus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
+# *Ichor*, ![photo de ichor](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
+# et *Tetrad* ![photo de tetrad](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
 
 ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
