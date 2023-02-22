@@ -7,9 +7,9 @@ Une exposition temporaire, interieure.
 ### Date de la visite: 3 février 2023
 
 # *Coeus*, [![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)](https://ianspriggs.com/wp-content/uploads/2022/10/Coeus_forWebsite.mp4)
-# *Prometheus*, ![photo de prometheus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)
-# *Ichor*, ![photo de ichor](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)
-# et *Tetrad* ![photo de tetrad](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)
+# *Prometheus*, [![photo de prometheus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/prometheus.jpg)](https://ianspriggs.com/wp-content/uploads/2022/03/Prometheus_small.mp4)
+# *Ichor*, [![photo de ichor](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Ichor.jpg)](https://ianspriggs.com/wp-content/uploads/2022/05/Ichor.mp4)
+# et *Tetrad* [![photo de tetrad](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/tetrad.jpg)](https://youtu.be/xzZpl7wxrI4)
 
 ![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
