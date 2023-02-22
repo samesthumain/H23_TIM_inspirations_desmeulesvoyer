@@ -37,3 +37,5 @@ ces 4 oeuvres sont des vidéos dans lesquelles on vois des portraits numériques
 **Aspects que je veux faire**: J'ai envie d'incorporer des modèles 3d dans mes projets parce que animateur 3d est une job que je veux avoir plus tard.
 
 **Aspects à éviter**: Les écrans utilisés pour présenter Coeus, Prometheus et Ichor n'ont pas tous la même grosseur malgré que d'après la plaque, les trois oeuvres ont la même grosseur.
+
+[Site web de l'artiste](https://ianspriggs.com/)
