@@ -22,7 +22,7 @@ Une exposition temporaire, interieure.
 
 ### type d'oeuvre - Contemplative
 
-(Description) :  Ces 4 oeuvres sont des vidéos dans lesquelles on vois des modèles 3d en mouvement, pour Coeus, Prometheus et Ichor
+Ces 4 oeuvres sont des vidéos dans lesquelles on vois des modèles 3d en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
 
 **Mise en espace**: 
 
