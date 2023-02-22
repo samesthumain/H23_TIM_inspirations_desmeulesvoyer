@@ -8,9 +8,7 @@ Une exposition temporaire, interieure.
 
 # Coeus, Prometheus, Ichor et Tetrad
 
-![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg =100x100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![Plaque](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/plaque.jpg)
 
 ### **Ian Springs**
 
