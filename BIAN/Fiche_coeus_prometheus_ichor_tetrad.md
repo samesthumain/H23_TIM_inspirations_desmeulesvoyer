@@ -22,7 +22,7 @@ Une exposition temporaire, interieure.
 
 ### type d'oeuvre - Contemplative
 
-(Description) :  4 modèles 3d 
+(Description) :  Ces 4 oeuvres sont des vidéos dans les quelles on vois des modèles 3d en mouvement 
 
 Mise en espace: 
 
