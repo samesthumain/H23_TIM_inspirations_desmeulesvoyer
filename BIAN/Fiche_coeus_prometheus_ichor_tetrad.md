@@ -20,13 +20,13 @@ Une exposition temporaire, interieure.
 #### - 2021 (Tetrad)
 #### - 2022 (Coeus, Prometheus et Ichor)
 
-### type d'oeuvre - Contemplative
+### type d'oeuvre: Contemplative
 
 Ces 4 oeuvres sont des vidéos dans lesquelles on vois des modèles 3d en mouvement, pour Coeus, Prometheus et Ichor, ledit mouvement est une transformation graduelle entre des humains avec de la peau à seulment voir leur cerveau et certains nerfs en passant par les muscles et le système nerveu alors que pour Tetrad, c'est quatre têtes humaine qui un mouvement de va et vient de gauche à droite.
 
 **Mise en espace**: 
 
-**Composantes et techniques**: L'oeuvre elle-même est (modèles 3d, animation)
+**Composantes et techniques**: L'oeuvre elle-même, c'est quatres vidéos de modèles 3d texturés dans les logiciels Maya et Mudbox, composés dans le logiciel DaVinci Resolve.
 
 **Éléments nécéssaires à l'exposition**: Un ordinteur(pour faire jouer les vidéos, quatre écrans(un par vidéo) et des fils(pour connecter les écrans à l'ordi)
 
