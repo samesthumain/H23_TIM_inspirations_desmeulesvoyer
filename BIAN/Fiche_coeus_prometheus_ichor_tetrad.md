@@ -1,6 +1,4 @@
-# BIAN 6 - Mutation
-
-![photo de coeus](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
+# BIAN 6 - Mutation ![affiche](https://github.com/samesthumain/H23_TIM_inspirations_desmeulesvoyer/blob/main/BIAN/medias/Coeus.jpg)
 
 ### Lieu: Arsenal
 
