@@ -18,3 +18,18 @@
 
 ## Luma Sol
 ### Réalisé par:
+- Éloïse Gagné
+- Skayla Stimphil
+- Michaël Simard
+- Pénélope Morrisson
+
+## Boucler la boucle
+### Réalisé par:
+- Sébastien Reilly
+- Sabrina Laforest
+- Alexandre Daniel
+- Maxime Des Lauriers
+
+## Zodie-Gal
+###Réalisé par:
+- Abdanor Yara
