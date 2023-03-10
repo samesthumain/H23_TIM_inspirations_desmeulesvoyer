@@ -8,6 +8,7 @@
 - Maria Laura Coronel
 ### Lien avec Mycélium
 
+
 ## Edria
 ### Réalisé par:
 - Elwin Durand
@@ -26,7 +27,7 @@
 - Michaël Simard
 - Pénélope Morrisson
 ### Lien avec Mycélium
-- Luma Sol est une forêt magique simulée qui, de plus, contient des codes QR qui mènent à des vidéos contenant des 
+- Luma Sol
 
 ## Boucler la boucle
 ### Réalisé par:
@@ -35,6 +36,7 @@
 - Alexandre Daniel
 - Maxime Des Lauriers
 ### Lien avec Mycélium
+- C'est une forêt magique simulée qui, de plus, contient des codes QR qui mènent à des vidéos contenant des champignons.
 
 ## Zodie-Gal
 ### Réalisé par:
