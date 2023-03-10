@@ -11,7 +11,11 @@
 ### Installation dans les studios
 - Dans le petit studio, il y a une toile qui recouvre trois murs, des projecteurs au plafond et un ordinateur dans le coin de la pièce.
 ### Installation prévue
-
+-
+### Cours nécéssaires
+-
+-
+-
 
 ## Edria
 ### Réalisé par:
@@ -26,7 +30,11 @@
 ### Installation dans les studios
 Un pilli
 ### Innstallation prévue
-
+-
+### Cours nécéssaires
+-
+-
+-
 
 ## Luma Sol
 ### Réalisé par:
@@ -37,8 +45,13 @@ Un pilli
 ### Lien avec Mycélium
 - Luma Sol consiste à plusieurs empoules toutes conecté ensemble, comme des champignons.
 ### Installation dans les studios
-
+-
 ### Installation prévue
+-
+### Cours nécéssaires
+-
+-
+-
 
 
 ## Boucler la boucle
@@ -50,9 +63,13 @@ Un pilli
 ### Lien avec Mycélium
 - C'est une forêt magique simulée qui, de plus, contient des codes QR qui mènent à des vidéos contenant des champignons.
 ### Installation dans les studios
-
+-
 ### Installation prévue
-
+-
+### Cours nécéssaires
+-
+-
+-
 
 ## Zodie-Gal
 ### Réalisé par:
@@ -62,3 +79,8 @@ Un pilli
 ### Installation dans les studios
 - Simplement un ordi dan le coin du grand studio sur lequel on peut jouer à Zodie-Gal.
 ### Installation prévue
+-
+### Cours nécéssaires
+-
+-
+-
