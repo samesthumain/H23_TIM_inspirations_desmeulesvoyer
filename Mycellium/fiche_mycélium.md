@@ -9,7 +9,7 @@
 ### Lien avec Mycélium
 - Thème de la nature
 ### Installation
-- Dans le petit studio
+- Dans le petit studio, il y a une toile qui recouvre chaque
 
 ## Edria
 ### Réalisé par:
