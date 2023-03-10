@@ -7,8 +7,9 @@
 - Tracy Gua
 - Maria Laura Coronel
 ### Lien avec Mycélium
-
+- Thème de la nature
 ### Installation
+- D
 
 ## Edria
 ### Réalisé par:
