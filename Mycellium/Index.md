@@ -6,6 +6,7 @@
 - Natacha Abdallah
 - Tracy Gua
 - Maria Laura Coronel
+### Lien avec Mycélium
 
 ## Edria
 ### Réalisé par:
@@ -15,6 +16,7 @@
 - Gabriel Leblanc
 - Meryem Berbiche
 - Jean-Christophe
+### Lien avec Mycélium
 
 ## Luma Sol
 ### Réalisé par:
@@ -22,6 +24,7 @@
 - Skayla Stimphil
 - Michaël Simard
 - Pénélope Morrisson
+### Lien avec Mycélium
 
 ## Boucler la boucle
 ### Réalisé par:
@@ -29,7 +32,9 @@
 - Sabrina Laforest
 - Alexandre Daniel
 - Maxime Des Lauriers
+### Lien avec Mycélium
 
 ## Zodie-Gal
 ### Réalisé par:
 - Abdanor Yara
+### Lien avec Mycélium
