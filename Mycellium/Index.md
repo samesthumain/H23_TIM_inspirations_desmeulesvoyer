@@ -39,3 +39,4 @@
 ### Réalisé par:
 - Abdanor Yara
 ### Lien avec Mycélium
+- Zodie-Gal a pour thème le combat entre humain et nature et, de plus, finir chaque niveau nécéssite de bien scanner son environement comme les champignons font lorsqu'ils communiquent entre eux.
