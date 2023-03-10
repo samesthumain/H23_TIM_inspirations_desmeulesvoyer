@@ -27,7 +27,7 @@
 - Michaël Simard
 - Pénélope Morrisson
 ### Lien avec Mycélium
-- Luma Sol
+- Luma Sol consiste à plusieurs empoules toutes conecté ensemble, comme des champignons.
 
 ## Boucler la boucle
 ### Réalisé par:
