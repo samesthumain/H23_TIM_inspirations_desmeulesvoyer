@@ -9,7 +9,7 @@
 ### Lien avec Mycélium
 - Thème de la nature
 ### Installation
-- D
+- Dans le petit studio
 
 ## Edria
 ### Réalisé par:
