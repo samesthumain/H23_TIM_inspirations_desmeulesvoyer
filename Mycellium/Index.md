@@ -17,6 +17,7 @@
 - Meryem Berbiche
 - Jean-Christophe
 ### Lien avec Mycélium
+- En plus d'un thème de la nature assez évident, pour experiencer cette oeuvre d'art à son plein potenciel, il faut le faire à plusieur. La comunication est une grande partie de "Edria", comme les champignons communiquent entre eux.
 
 ## Luma Sol
 ### Réalisé par:
