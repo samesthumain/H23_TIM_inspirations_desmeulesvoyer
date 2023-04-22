@@ -6,3 +6,11 @@ J'ai visité cette exposition le 16 avril 2023
 Une oeuvre immersive de Chen Singing
 [description]
 [mise en espace]
+[composantes techniques]
+[éléments nécéssaires]
+
+
+[Expérience vécue]
+
+Ce qui m'a plu:
+CCe qui m'a moins plu:
