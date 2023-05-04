@@ -7,11 +7,11 @@ Une oeuvre interactive d'Abdanor Yara
 
 Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre une suite de 12 monstres qui représentent chaqu'un un des signes du zodiac. Le but de chaque niveau  est de cliquer sur 
 
-Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et un clavier sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal
+Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et une souris sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal.
 
-[composantes techniques]
+composantes techniques: Le jeu en soi
 
-[éléments nécéssaires]
+éléments nécéssaires à la mise en exposition : Un ordinateur, une souris, une enceinte
 
 Ce qui m'a plu: Les dessins sont très beaux et les animations qui jouent à chaque fin de niveau sont très bien faits.
 
