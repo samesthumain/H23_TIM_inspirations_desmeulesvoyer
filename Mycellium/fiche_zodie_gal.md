@@ -5,7 +5,7 @@ J'ai visité cette exposition durant la semain du _ au _
 # Zodie-Gal
 Une oeuvre interactive d'Abdanor Yara
 
-[description]
+Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre 
 
 [mise en espace]
 
