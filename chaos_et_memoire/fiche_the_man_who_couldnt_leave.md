@@ -22,3 +22,5 @@ Composantes et techniques: Le fichier contenant l'oeuvre.
 Ce qui m'a plu: L'histoire était captivante et le message est claire. À la fin de l'oeuvre, il y a une section où la caméra recule à ttravers des dépictions 3D de manifestants qui se battent avec des policiers pour leur liberté avec une chanson révolutionnaire en arrière-plan que j'ai trouvé très bien réalisée.
 
 Ce qui m'a moins plu: La lumière me faisait mal aux yeux, je trouve que la couleure choisi était un peu trop dure sur les yeux surtout parce qu'elle faisait contraste avec l'utilisation de tons plus sombres de l'oeuvre.
+
+[Certaines photos et informations][https://www.example.com](https://phi.ca/fr/evenements/chaos-et-memoires/)
