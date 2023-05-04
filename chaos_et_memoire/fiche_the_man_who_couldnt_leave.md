@@ -2,7 +2,8 @@
 Une exposition temporaire <br>
 <img src="media/affiche_expo.jpg" width="500" height="300">
 ## Centre PHI
-J'ai visité cette exposition le 16 avril 2023
+J'ai visité cette exposition le 16 avril 2023 <br>
+<img src="media/entre_centre_phi.jpg" width="200" height="270">
 # The man who couldn't leave (2022)
 Une oeuvre immersive de Chen Singing
 
