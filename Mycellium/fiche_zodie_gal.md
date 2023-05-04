@@ -9,9 +9,9 @@ Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre 
 
 Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et une souris sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal.
 
-composantes techniques: Le jeu en soi
+composantes techniques: Le jeu en soi.
 
-éléments nécéssaires à la mise en exposition : Un ordinateur, une souris, une enceinte
+éléments nécéssaires à la mise en exposition : Un ordinateur, une souris, une enceinte et une lampe.
 
 Ce qui m'a plu: Les dessins sont très beaux et les animations qui jouent à chaque fin de niveau sont très bien faits.
 
