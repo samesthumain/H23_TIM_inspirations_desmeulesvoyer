@@ -1,7 +1,6 @@
 # Mycélium
 <img src="media/titre_mycelium.PNG" width="500" height="370"><br>
 ## Echomarine 
-<img src="media/titre_mycelium.PNG" width="500" height="370"><br>
 ordre de préférence : 5
 ### Réalisé par:
 - Florence Lapierre
@@ -13,7 +12,7 @@ ordre de préférence : 5
 ### Installation dans les studios
 - Dans le petit studio, il y a une toile qui recouvre trois murs, des projecteurs au plafond et un ordinateur dans le coin de la pièce.
 ### Schéma d'installation prévue
-
+<img src="media/schema_echomarine.png" width="300" height="300">
 ### Cours nécéssaires
 -
 -
