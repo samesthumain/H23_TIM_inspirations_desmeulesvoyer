@@ -13,7 +13,8 @@ Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre 
 Le but de chaque niveau  est de cliquer sur l'objet qui permettras au personnage principal de défaire la créature qui la met en danger.
 
 Les niveaux ressemblent à ça :<br>
-<img src="media/zodie_gal_personnage.png" width="300" height="300">
+<img src="media/zodie_gal_personnage.png" width="300" height="300"> <br>
+Par exemple : 
 
 ### Mise en espace
 Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et une souris sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal. <br>
