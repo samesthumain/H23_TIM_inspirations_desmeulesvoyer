@@ -14,7 +14,7 @@ Le but de chaque niveau  est de cliquer sur l'objet qui permettras au personnage
 
 Les niveaux ressemblent à ça :<br>
 <img src="media/zodie_gal_personnage.png" width="300" height="300"> <br>
-Par exemple : 
+Par exemple : pour finir ce niveau, il faut cliquer sur l'épingle à cheveux, une animation commence alors, démontrant la jeune fille plantant l'épingle à cheveux dans l'oeil du monstre, qui dans ce cas là, représente le signe du verseau.
 
 ### Mise en espace
 Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et une souris sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal. <br>
