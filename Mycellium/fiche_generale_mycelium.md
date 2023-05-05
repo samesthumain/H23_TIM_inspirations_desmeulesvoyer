@@ -34,14 +34,14 @@ ordre de préférence : 2
 ### Installation dans les studios
 -Un seul pillier de métal qui fait du bruit lorsque les capteurs détectent quelqu'un de proche.
 ### Schéma d'installation prévue
-
+<img src="media/schema_echomarine.png" width="300" height="300">
 ### Cours nécéssaires
 -
 -
 -
 ### Expérience prévue
 
-## Luma Sol
+## LumaSol
 ### Réalisé par:
 ordre de préférence : 4
 - Éloïse Gagné
