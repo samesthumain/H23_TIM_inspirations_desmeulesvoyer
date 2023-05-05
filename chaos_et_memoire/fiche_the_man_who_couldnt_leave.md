@@ -23,4 +23,4 @@ Ce qui m'a plu: L'histoire était captivante et le message est claire. À la fin
 
 Ce qui m'a moins plu: La lumière me faisait mal aux yeux, je trouve que la couleure choisi était un peu trop dure sur les yeux surtout parce qu'elle faisait contraste avec l'utilisation de tons plus sombres de l'oeuvre.
 
-Références: [Site du centre PHI](https://phi.ca/fr/evenements/chaos-et-memoires/)
+Références : [Site du centre PHI](https://phi.ca/fr/evenements/chaos-et-memoires/)
