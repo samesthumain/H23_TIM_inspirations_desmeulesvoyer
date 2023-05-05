@@ -91,7 +91,8 @@ ordre de préférence : 1
 ### Installation dans les studios
 - Simplement un ordi dan le coin du grand studio sur lequel on peut jouer à Zodie-Gal, l'installation sera pareille lors de l'exposition.
 ### Cours nécéssaires
--
--
--
+- Illustration numérique.
+- Audio
+- Interactivité ludique
 ### Expérience prévue
+Le fait de voir des monstres basés sur le zodiac m'interpelle beaucoups, je crois que je vais beacoups aimer découvrir les designs des créatures que je dois combattre.
