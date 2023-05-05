@@ -34,7 +34,7 @@ ordre de préférence : 2
 ### Installation dans les studios
 -Un seul pillier de métal qui fait du bruit lorsque les capteurs détectent quelqu'un de proche.
 ### Schéma d'installation prévue
-<img src="media/schema_echomarine.png" width="300" height="300">
+<img src="media/schema_edria.png" width="400" height="300">
 ### Cours nécéssaires
 -
 -
@@ -53,7 +53,7 @@ ordre de préférence : 4
 ### Installation dans les studios
 -
 ### Schéma d'installation prévue
-
+<img src="media/schema_lumasol.png" width="500" height="300">
 ### Cours nécéssaires
 -
 -
@@ -73,7 +73,7 @@ ordre de préférence : 3
 ### Installation dans les studios
 -
 ### Schéma d'installation prévue
-
+<img src="media/schema_nexum.png" width="500" height="300">
 ### Cours nécéssaires
 -
 -
@@ -87,8 +87,7 @@ ordre de préférence : 1
 ### Lien avec Mycélium
 - Zodie-Gal a pour thème le combat entre humain et nature et, de plus, finir chaque niveau nécéssite de bien scanner son environement comme les champignons font lorsqu'ils communiquent entre eux.
 ### Installation dans les studios
-- Simplement un ordi dan le coin du grand studio sur lequel on peut jouer à Zodie-Gal.
-### Schéma d'installation prévue
+- Simplement un ordi dan le coin du grand studio sur lequel on peut jouer à Zodie-Gal, l'installation sera pareille lors de l'exposition.
 
 ### Cours nécéssaires
 -
