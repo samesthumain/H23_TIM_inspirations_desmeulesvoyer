@@ -1,5 +1,5 @@
 # Mycélium
-
+<img src="media/titre_mycelium.PNG" width="500" height="370">
 ## Echomarine
 ### Réalisé par:
 - Florence Lapierre
