@@ -1,2 +1,4 @@
 # Au service de l'artiste
-Karine Charbonneau, cheffe des expositions et registraire chez Studio Antimodular, a tenu une conférence au cégep Montmorency le 28 mars 2023. Le but de cette conférence : 
+Karine Charbonneau, cheffe des expositions et registraire chez Studio Antimodular, a tenu une conférence au cégep Montmorency le 28 mars 2023. Au cours de cette conférence elle nous a parlé de la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique.
+
+Les membres de Studio Antimodular travaillent tous au service d'une personne, d'un artiste : Rafael Lozano-Hemmer. Il y a 3 départements principaux, les déartements d'exposition, de RnD et de succession (ou conservation). Le département de d'exposition à pour mission de communiquer avec les galeries, musées et collectionneurs qui sont interessés par l'art de monsieur Lozano-Hemmer, recevoir et filtrer les projets, analyser les possibilités de collaborer selon plusieurs critères et Lançer la production d'une oeuvre existante d'une itération d'oeuvre
