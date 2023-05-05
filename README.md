@@ -1,6 +1,6 @@
 # H23_TIM_inspirations_desmeulesvoyer
 
-Il y a un dossier BIAN, un dossier Mycellium, un dossier human et un dossier chaos_et_mémoire,
+Il y a un dossier BIAN, un dossier Mycellium, un dossier chaos_et_mémoire et un dossier human,
 ils contiennent tous des fiches d'explications qui expliquent en détails un oeuvre spécifique de leur exposition respective.
 
 Le dossier compte_rendu_conferences contient deux comptes-rendus qui décrivent et donnent mon appréciation sur deux conférences différentes.
