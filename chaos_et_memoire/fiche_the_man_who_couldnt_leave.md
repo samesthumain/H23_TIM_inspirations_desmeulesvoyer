@@ -15,7 +15,7 @@ Après avoir mis le casque VR, l'audience se retrouve au millieu de l'océan alo
 Dans la pièce, il y 6 chaises le long des murs qui ont chaqu'un un casque VR dessus, un visiteur n'a qu'a mettre le casque VR pour faire l'expérience de *The man who couldn't leave*. <br>
 <img src="media/dispositif.jpg" width="450" height="400">
 
-Composantes et techniques: Le fichier contenant l'oeuvre.
+Composantes : Le fichier contenant l'oeuvre.
 
 Éléments nécéssaires à la mise en exposition: Casques VR, des casques d'écoute et des chaises.
 
