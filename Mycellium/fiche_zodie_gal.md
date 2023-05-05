@@ -1,5 +1,6 @@
 # Mycélium
-une exposition temporaire
+une exposition temporaire <br>
+<img src="media/titre_mycelium.PNG" width="500" height="300">
 ## Collège Montmorency
 J'ai visité cette exposition à plusieurs reprises du 20 au 23 mars
 # Zodie-Gal
