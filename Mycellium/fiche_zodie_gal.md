@@ -3,8 +3,8 @@ une exposition temporaire
 ## Collège Montmorency
 J'ai visité cette exposition à plusieurs reprises du 20 au 23 mars
 # Zodie-Gal
-Une oeuvre interactive d'Abdanor Yara
-<img src="media/affiche_expo.jpg" width="500" height="300">
+Une oeuvre interactive d'Abdanor Yara <br>
+<img src="media/zodie_gal_titre.png" width="500" height="300">
 
 Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre une suite de 12 monstres qui représentent chaqu'un un des signes du zodiac mais aussis les difficultées de la vie d'une jeune adolescente. Le but de chaque niveau  est de cliquer sur l'objet qui permettras au personnage principal de défaire la créature qui la met en danger
 
