@@ -28,6 +28,6 @@ Techniques utilisées : Le logiciel GDevelop 5
 
 Ce qui m'a plu: Les dessins sont très beaux et les animations qui jouent à chaque fin de niveau sont très bien faits.
 
-Ce qui m'a moins plu: l'histoire n'est pas assez claire à mon goût et les casse-têtes laissent un peu à désirer, certains sont trop façile, certains sont prèsque impossible à complèter, je n'aurai jamais fini le jeux si la créatrice du jeu ne se tenait pas à côté de moi pour me donner les réponces de temps en temps.
+Ce qui m'a moins plu: l'histoire n'est pas assez claire à mon goût et les casse-têtes laissent un peu à désirer, certains sont trop façile, certains sont prèsque impossible à complèter, je n'aurai jamais fini le jeux si la créatrice du jeu ne se tenait pas à côté de moi pour me donner les réponces de temps en temps. Aussi, il n'y a pas vraiment de rapport avec la thème de Mycélium.
 
 Références : [Page Zodie-gal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
