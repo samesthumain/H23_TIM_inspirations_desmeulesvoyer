@@ -1,11 +1,11 @@
-# Mycellium
+# Mycélium
 une exposition temporaire
 ## Collège Montmorency
-J'ai visité cette exposition durant la semain du _ au _
+J'ai visité cette exposition à plusieurs reprises du 20 au 23 mars
 # Zodie-Gal
 Une oeuvre interactive d'Abdanor Yara
 
-Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre une suite de 12 monstres qui représentent chaqu'un un des signes du zodiac. Le but de chaque niveau  est de cliquer sur 
+Dans Zodie-Gal, on contrôle une jeune fille qui dois survivre un combat contre une suite de 12 monstres qui représentent chaqu'un un des signes du zodiac. Le but de chaque niveau  est de cliquer sur l'objet qui permettras au personnage principal de défaire la 
 
 Dans le coin du grand studio, il y a un bureau illuminé d'une lampe, il y a un écran et une souris sur le bureau, c'est en utilisant ces derniers que l'on peut jouer à Zodie-Gal.
 
