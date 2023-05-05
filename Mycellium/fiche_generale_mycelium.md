@@ -1,6 +1,7 @@
 # Mycélium
 <img src="media/titre_mycelium.PNG" width="500" height="370"><br>
 ## Echomarine 
+<img src="media/titre_mycelium.PNG" width="500" height="370"><br>
 ordre de préférence : 5
 ### Réalisé par:
 - Florence Lapierre
@@ -18,6 +19,7 @@ ordre de préférence : 5
 -
 -
 ### Expérience prévue
+
 
 ## Edria
 ordre de préférence : 2
@@ -38,6 +40,7 @@ ordre de préférence : 2
 -
 -
 -
+### Expérience prévue
 
 ## Luma Sol
 ### Réalisé par:
@@ -56,6 +59,7 @@ ordre de préférence : 4
 -
 -
 -
+### Expérience prévue
 
 
 ## Nexum
@@ -75,6 +79,7 @@ ordre de préférence : 3
 -
 -
 -
+### Expérience prévue
 
 ## Zodie-Gal
 ordre de préférence : 1
@@ -90,3 +95,4 @@ ordre de préférence : 1
 -
 -
 -
+### Expérience prévue
