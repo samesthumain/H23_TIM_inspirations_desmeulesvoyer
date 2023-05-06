@@ -5,7 +5,7 @@ une exposition permanente interieure<br>
 j'ai visité cette exposition le 12 avril<br>
 <img src="media/centre_sciences_devans.png" width="500" height="300">
 
-# L'oeuvre en question
+# L'installation en question
 <img src="media/oeuvre_en_soi.jpg" width="500" height="300">
 
 Dans un trou rectangulaire à côté de l'installation en soi, il y a des plaques de bois sur lesquels sont des suites de lignes colorées et une silhouette d'animal.<br>
