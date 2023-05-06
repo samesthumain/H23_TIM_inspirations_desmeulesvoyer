@@ -8,10 +8,11 @@ j'ai visité cette exposition le 12 avril<br>
 # L'oeuvre en question
 <img src="media/oeuvre_en_soi.jpg" width="500" height="300">
 
-Dans un trou rectangulaire à côté de l'installation en soi, il y a des panneaux de bois sur lesquels sont des suites de lignes colorées et une silhouette d'animal.<br>
+Dans un trou rectangulaire à côté de l'installation en soi, il y a des plaques de bois sur lesquels sont des suites de lignes colorées et une silhouette d'animal.<br>
 <img src="media/plaques_en_bois.jpg" width="500" height="300">
 
-L'utilisateur à pour but d'aligner les lignes 
+L'utilisateur à pour but d'aligner les lignes sur les plaques de bois avec celles qui sont sur l'oeuvre en soit. <br> 
+<img src="media/human_fonction.jpg" width="500" height="300">
 
 <img src="media/human_cartel.jpg" width="300" height="450">
 
