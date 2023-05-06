@@ -1,5 +1,5 @@
 # Chaos et mémoires
-Une exposition temporaire <br>
+Une exposition temporaire exterieure <br>
 <img src="media/affiche_expo.jpg" width="500" height="300">
 ## Centre PHI
 J'ai visité cette exposition le 16 avril 2023 <br>
