@@ -1,5 +1,5 @@
 # Mycélium
-une exposition temporaire <br>
+une exposition temporaire extérieure <br>
 <img src="media/titre_mycelium.PNG" width="500" height="370">
 ## Collège Montmorency
 J'ai visité cette exposition à plusieurs reprises du 20 au 23 mars
