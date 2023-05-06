@@ -16,7 +16,13 @@ Into - Bonjour je vous présente Chaos et mémoire<br>
  
  -4 oeuvres (vu 3 parce que manque de temps + mal de tête)
  
+ -décrire l'oeuvre
+ 
  - de loin mon oeuvre préférée
+
+- mise en espace
+
+- plu/déplu(sur la fiche)
 
 
 - comparaison au voitures en collision lente à la bian (sentiment d'inévitabilité)
